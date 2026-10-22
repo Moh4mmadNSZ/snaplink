@@ -1,6 +1,6 @@
 # SnapLink
 
-![CI](https://github.com/<your-user>/snaplink/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Moh4mmadNSZ/snaplink/actions/workflows/ci.yml/badge.svg)
 
 A small URL-shortener microservice in Go: create a short link (random or custom
 code), `GET /{code}` redirects with `302` and counts the click, plus list, get
